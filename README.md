@@ -1,2 +1,2 @@
-TinDog Starting Files
 # tindog
+Single page application to market for a mobile app.
